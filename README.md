@@ -19,7 +19,7 @@ say_hello()
 
 
 
-    'Hello World!'
+    'Hello there World!'
 
 
 
@@ -30,6 +30,6 @@ say_hello("PyDataPDX")
 
 
 
-    'Hello PyDataPDX!'
+    'Hello there PyDataPDX!'
 
 
